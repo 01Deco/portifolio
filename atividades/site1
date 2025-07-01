@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Capitaly</title>
+</head>
+<body>
+
+  <header>
+    <h1 style="color: #2c3e50; font-size: 2.5em;"> Capitaly</h1>
+    <hr>
+  </header>
+
+  <section>
+    <h2>Quem Somos</h2>
+    <p>
+      A <strong>Capitaly</strong> e uma empresa focada em inovar cada vez mais no setor da moda, com designs exclusivos e conceitos pouco aproveitados no mercado. Nossa missão é trazer conforto e estilo para o dia a dia das pessoas, oferecendo produtos que unem funcionalidade e estética.
+    </p>
+  </section>
+
+  
+
+  <section>
+    <h2>Nossa Equipe/ Alunos da atividade</h2>
+    <ul>
+      <li><strong>Daniel Oliveira</strong> (Co-fundador e Designer)</li>
+      <li><strong>David Burguês</strong> (Co-fundador e Diretor operacional)</li>
+      <li><strong>André Resende</strong> (Fundador e CEO)</li>
+      <li><strong>Asafe Oliveira</strong> (Co-fundador e Marketing)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contato</h2>
+    <p>
+      E-mail: <a href="mailto:andre.guiresende2007@gmail.com">andre.guiresende2007@gmail.com</a>
+    </p>
+  </section>
+
+  <section>
+    <h2>Sobre Nós em Imagem</h2>
+    <img src="capitaly.co.jpeg" width="600">
+  </section>
+
+  
+
+</body>
+</html>
